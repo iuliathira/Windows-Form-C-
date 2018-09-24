@@ -1,0 +1,15 @@
+C:\Users\iuliathira\source\repos\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+C:\Users\iuliathira\source\repos\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+C:\Users\iuliathira\source\repos\FirstProgram\FirstProgram\obj\Debug\FirstProgram.Properties.Resources.resources
+C:\Users\iuliathira\source\repos\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.GenerateResource.Cache
+C:\Users\iuliathira\source\repos\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\iuliathira\source\repos\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+C:\Users\iuliathira\source\repos\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb
+C:\Users\iuliathira\source\repos\FirstProgram\FirstProgram\obj\Debug\FirstProgram.Form1.resources
+C:\Users\iuliathira\source\repos\FirstProgram\FirstProgram\obj\Debug\FirstProgram.FirstCustomControl.resources
+C:\Users\iuliathira\source\repos\FirstProgram\FirstProgram\obj\Debug\FirstProgram.SecondCustomControl.resources
+C:\Users\iuliathira\source\repos\FirstProgram\FirstProgram\obj\Debug\FirstProgram.HomeCustomControl.resources
+C:\Users\iuliathira\source\repos\FirstProgram\FirstProgram\obj\Debug\FirstProgram.Account.resources
+C:\Users\iuliathira\source\repos\FirstProgram\FirstProgram\obj\Debug\FirstProgram.Sign.resources
+C:\Users\iuliathira\source\repos\FirstProgram\FirstProgram\obj\Debug\FirstProgram.Order.resources
+C:\Users\iuliathira\source\repos\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csprojResolveAssemblyReference.cache
